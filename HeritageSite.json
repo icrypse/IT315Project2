@@ -1,0 +1,103 @@
+{
+  "HeritageSites":
+  [
+      {"SiteName":"Taj Mahal",
+"SiteLocation":"Agra, Utter Pradesh, India",
+"SiteID":1,
+"SiteImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+"SiteBuilt":"1632-53",
+"SiteType":"Architecture",
+"SiteWebsite":"https://whc.unesco.org/en/list/252/",
+"SiteDescription": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favorite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."},
+
+        {"SiteName":"Statue of Liberty",
+"SiteLocation":"Liberty Island Manhattan, New York City, New Yourk USA.",
+"SiteID":2,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Statue%20Of%20Liberty.jpeg",
+"SiteBuilt":"Oct 28, 1886",
+"SiteType":"Statue",
+"SiteWebsite":"https://whc.unesco.org/en/list/307/",
+"SiteDescription": "Made in Paris by the French sculptor Bartholdi, in collaboration with Gustave Eiffel (who was responsible for the steel framework), this towering monument to liberty was a gift from France on the centenary of American independence. Inaugurated in 1886, the sculpture stands at the entrance to New York Harbour and has welcomed millions of immigrants to the United States ever since."},
+
+        {"SiteName":"Machu Picchu",
+"SiteLocation":"Cuzco Region, Peru",
+"SiteID":3,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Machu%20Picchu.jpeg",
+"SiteBuilt":"1438-1472",
+"SiteType":"Mixed",
+"SiteWebsite":"https://whc.unesco.org/en/list/274/",
+"SiteDescription": "Machu Picchu stands 2,430 m above sea-level, in the middle of a tropical mountain forest, in an extraordinarily beautiful setting. It was probably the most amazing urban creation of the Inca Empire at its height; its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments. The natural setting, on the eastern slopes of the Andes, encompasses the upper Amazon basin with its rich diversity of flora and fauna."},
+
+        {"SiteName":"Grand Canyon National Park",
+"SiteLocation":"Arizona, USA",
+"SiteID":4,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/GrandCanyonNationalPark.jpeg",
+"SiteBuilt":"5-6 million years",
+"SiteType":"Natural",
+"SiteWebsite":"https://whc.unesco.org/en/list/75/",
+"SiteDescription": "Carved out by the Colorado River, the Grand Canyon (nearly 1,500 m deep) is the most spectacular gorge in the world. Located in the state of Arizona, it cuts across the Grand Canyon National Park. Its horizontal strata retrace the geological history of the past 2 billion years. There are also prehistoric traces of human adaptation to a particularly harsh environment."},
+
+
+        {"SiteName":"Great Wall",
+"SiteLocation":"northern borders of china",
+"SiteID":5,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Great%20Wall%20of%20China.jpeg",
+"SiteBuilt":"220-206 BC",
+"SiteType":"Fortification",
+"SiteWebsite":"https://whc.unesco.org/en/list/438/",
+"SiteDescription": "In c. 220 B.C., under Qin Shi Huang, sections of earlier fortifications were joined together to form a united defence system against invasions from the north. Construction continued up to the Ming dynasty (1368–1644), when the Great Wall became the world's largest military structure. Its historic and strategic importance is matched only by its architectural significance."},
+
+
+        {"SiteName":"Venice",
+"SiteLocation":"Venice Metropolitan city, Italy",
+"SiteID":6,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Venice.jpeg",
+"SiteBuilt":"5th Century",
+"SiteType":"City",
+"SiteWebsite":"https://whc.unesco.org/en/list/394/",
+"SiteDescription": "Founded in the 5th century and spread over 118 small islands, Venice became a major maritime power in the 10th century. The whole city is an extraordinary architectural masterpiece in which even the smallest building contains works by some of the world's greatest artists such as Giorgione, Titian, Tintoretto, Veronese and others."},
+
+        {"SiteName":"Stonehenge",
+"SiteLocation":"Wiltshire, England",
+"SiteID":7,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/stonehenge.jpeg",
+"SiteBuilt":"around 3000 BC - 2000 BC",
+"SiteType":"Monument",
+"SiteWebsite":"https://whc.unesco.org/en/list/373/",
+"SiteDescription": "Stonehenge and Avebury, in Wiltshire, are among the most famous groups of megaliths in the world. The two sanctuaries consist of circles of menhirs arranged in a pattern whose astronomical significance is still being explored. These holy places and the nearby Neolithic sites are an incomparable testimony to prehistoric times."},
+
+
+        {"SiteName":"Pashupatinath Temple",
+"SiteLocation":"Kathmandu, Nepal",
+"SiteID":8,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Pasupatinath2.jpeg",
+"SiteBuilt":"16th Century",
+"SiteType":"Pagoda",
+"SiteWebsite":"https://www.dur.ac.uk/research/directory/view/?mode=project&id=938",
+"SiteDescription": "Cultural heritage is threatened by increasing pilgrim numbers at major religious sites around the world, especially in Asia. Pashupati, a UNESCO World Heritage Site in the Kathmandu Valley (Nepal), is a microcosm of the impacts facing archaeology from these global developments, providing a case-study of heritage management for sustainable pilgrimage. A major Śaivite site, comprising temples, ashrams and ghats, Pashupati receives six million pilgrims annually, as well as being the Kathmandu Valley’s premiere cremation location, leading to tensions between development, religious practice and the protection of cultural heritage."},
+
+
+        {"SiteName":"Swayambhunath",
+"SiteLocation":"Kathmandu, Nepal",
+"SiteID":9,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Swayambhunath2.jpeg",
+"SiteBuilt":"13th Century",
+"SiteType":"Stupa",
+"SiteWebsite":"https://visitworldheritage.com/en/buddha/kathmandus-buddhist-world-heritage/80ed471a-07b7-4648-a25e-8e338a84990f",
+"SiteDescription": "Two of the holiest Buddhist sites in Nepal are the stupas of Swayambhu and Bauddhanath in Kathmandu. They are part of a UNESCO World Heritage site and can be combined with a pilgrimage to Lumbini."},
+
+
+        {"SiteName":"Eiffel Tower",
+"SiteLocation":"Paris, France",
+"SiteID":10,
+"SiteImage":"https://raw.githubusercontent.com/icrypse/IT315Project2/main/Eiffel%20Tower.jpeg",
+"SiteBuilt":"1989",
+"SiteType":"Observation tower",
+"SiteWebsite":"https://whc.unesco.org/en/list/600/",
+"SiteDescription": "From the Louvre to the Eiffel Tower, from the Place de la Concorde to the Grand and Petit Palais, the evolution of Paris and its history can be seen from the River Seine. The Cathedral of Notre-Dame and the Sainte Chapelle are architectural masterpieces while Haussmann's wide squares and boulevards influenced late 19th- and 20th-century town planning the world over."}
+
+  ],
+
+  "Status":"OK"
+}
+
