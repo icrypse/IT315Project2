@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Heritage Sites</title>
+</head>
+<body>
+  <h1>World Heritage Sites</h1>
+  <div id="sites"></div>
+
+  <script>
+    fetch('HeritageSites.json') // change to your JSON filename
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('sites');
+        data.HeritageSites.forEach(site => {
+          const el = document.createElement('div');
+          el.innerHTML = `
+            <h2>${site.SiteName}</h2>
+            <img src="${site.SiteImage}" alt="${site.SiteName}" width="300">
+            <p><strong>Location:</strong> ${site.SiteLocation}</p>
+            <p><strong>Built:</strong> ${site.SiteBuilt}</p>
+            <p>${site.SiteDescription}</p>
+            <a href="${site.SiteWebsite}" target="_blank">Visit</a>
+            <hr>
+          `;
+          container.appendChild(el);
+        });
+      });
+  </script>
+</body>
+</html>
